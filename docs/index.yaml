@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v1
+    created: 2017-08-28T19:54:49.200790658Z
+    description: A Helm chart for Kubernetes
+    digest: a7f62d5c36b69a15db0d3e969c8388bb578eacda476da87ffcfb716e47814c06
+    name: mychart
+    urls:
+    - https://sethnute.github.io/bluemix-kubernetes-sample/mychart-0.20.0.tgz
+    version: 0.20.0
+generated: 2017-08-28T19:54:49.200145278Z
