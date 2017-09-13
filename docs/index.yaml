@@ -2,7 +2,15 @@ apiVersion: v1
 entries:
   mychart:
   - apiVersion: v1
-    created: 2017-09-06T13:52:22.034649745Z
+    created: 2017-09-13T14:16:37.674370523Z
+    description: A Helm chart for Kubernetes
+    digest: 2c74956d98b0f52acd8a3904e9f55d66572ad3f9a0dc0ad5afdb729a194f3c7a
+    name: mychart
+    urls:
+    - https://sethnute.github.io/bluemix-kubernetes-sample/mychart-0.27.0.tgz
+    version: 0.27.0
+  - apiVersion: v1
+    created: 2017-09-13T14:16:37.673957968Z
     description: A Helm chart for Kubernetes
     digest: 70980e01af6a3a2653f97709911fd98de949eb24ca127cd8ac2f0799ed3b9bc7
     name: mychart
@@ -10,7 +18,7 @@ entries:
     - https://sethnute.github.io/bluemix-kubernetes-sample/mychart-0.24.0.tgz
     version: 0.24.0
   - apiVersion: v1
-    created: 2017-09-06T13:52:22.033244175Z
+    created: 2017-09-13T14:16:37.673541518Z
     description: A Helm chart for Kubernetes
     digest: 101148aac5250b9b2b44d94c90f91be36ac8c7e35e581e40645f76190027aa78
     name: mychart
@@ -18,7 +26,7 @@ entries:
     - https://sethnute.github.io/bluemix-kubernetes-sample/mychart-0.23.0.tgz
     version: 0.23.0
   - apiVersion: v1
-    created: 2017-09-06T13:52:22.031487999Z
+    created: 2017-09-13T14:16:37.673029936Z
     description: A Helm chart for Kubernetes
     digest: 0af11f1f53d23efe041b41f739da1346d8e05882346361a3e04ffcf0f737661b
     name: mychart
@@ -26,11 +34,11 @@ entries:
     - https://sethnute.github.io/bluemix-kubernetes-sample/mychart-0.22.0.tgz
     version: 0.22.0
   - apiVersion: v1
-    created: 2017-09-06T13:52:22.030944815Z
+    created: 2017-09-13T14:16:37.672588189Z
     description: A Helm chart for Kubernetes
     digest: a7f62d5c36b69a15db0d3e969c8388bb578eacda476da87ffcfb716e47814c06
     name: mychart
     urls:
     - https://sethnute.github.io/bluemix-kubernetes-sample/mychart-0.20.0.tgz
     version: 0.20.0
-generated: 2017-09-06T13:52:22.030215265Z
+generated: 2017-09-13T14:16:37.67200493Z
